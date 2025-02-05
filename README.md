@@ -2,7 +2,7 @@
 
 - I am currently a 3rd year Computer Science student at UJ
 - I can currently code in VB, C++ and Python
-- I recently started learning to program Java so i have basic/introductory knowledge of Java
+- I recently started learning to program JavaScript so i have at this point i have introductory knowledge of JavaScript
 - Fun fact: I aspire to be a "gymrat" but i am too lazy for any physical activity 😂
 
 <!--
