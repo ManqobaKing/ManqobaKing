@@ -3,7 +3,7 @@
 - I am currently a 3rd year Computer Science student at UJ
 - I can currently code in VB, C++ and Python
 - I recently started learning to program Java so i have basic/introductory knowledge of Java
-- Fun fact: I aspire to be a gym rat but i am too lazy for physical activity 😂
+- Fun fact: I aspire to be a "gymrat" but i am too lazy for any physical activity 😂
 
 <!--
 **ManqobaKing/ManqobaKing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
